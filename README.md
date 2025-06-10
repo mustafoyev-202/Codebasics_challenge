@@ -29,5 +29,3 @@ The system is built upon the following technical components:
 - **Vector Database**: ChromaDB for document storage and retrieval
 - **LLM**: Google Gemini 2.0 Flash for response generation
 - **Embeddings**: Sentence Transformers for document vectorization
-
-## 📁 Project Structure
