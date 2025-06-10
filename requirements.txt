@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+pandas
+Markdown
+sentence-transformers
+pydantic
+streamlit
+plotly
+bcrypt
